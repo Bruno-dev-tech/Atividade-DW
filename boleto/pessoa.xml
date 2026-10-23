@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<root>
+    
+    <boleto>
+
+    <id>20240430160656</id>
+    <data_vencimento> 12/10/2024</data_vencimento>
+    <data_emissao>12/10/2024</data_emissao>
+    <data_pagamento>12/10/2024</data_pagamento>
+    <valor> 12</valor>
+    <desconto>1</desconto>
+    <juros>1</juros>
+    <multa> 12</multa>
+    <more>1</more>
+    <valor_pago>1</valor_pago>
+
+</boleto>
+    
+    
+    
+    
+</root>
